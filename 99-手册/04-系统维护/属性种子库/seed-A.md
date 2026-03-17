@@ -1,7 +1,7 @@
 ---
-status: pending
-priority: high
-type: meeting
+status: [pending]
+priority: [high]
+type: [meeting]
 tags: [journal, 模版, 会议, 记录, 复盘, 周记]
 ---
 

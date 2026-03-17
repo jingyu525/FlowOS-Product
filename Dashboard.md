@@ -34,5 +34,5 @@ due before tomorrow
 ```dataview
 TABLE status as "状态", priority as "优先级"
 FROM "10-项目"
-WHERE status != "completed" AND file.name != "10-项目" AND file.name != "活跃项目看板"
+WHERE status != "done" AND status != "completed" AND status != "archived" AND file.name != "10-项目" AND file.name != "活跃项目看板" AND file.name != "新建项目" AND file.name != "项目列表"
 ```

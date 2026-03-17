@@ -1,6 +1,6 @@
 ---
-status: archived
-type: permanent
+status: [archived]
+type: [permanent]
 ---
 
 > [!info] 这是一个系统维护文件，请勿删除。

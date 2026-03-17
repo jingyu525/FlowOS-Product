@@ -1,17 +1,18 @@
 ---
-status: active
+status:
+  - done
 priority: high
 tags: []
-objective: "熟悉 FlowOS 系统"
+objective: 熟悉 FlowOS 系统
 key_results:
-  - "完成入门指南阅读"
-  - "创建第一条日记"
+  - 完成入门指南阅读
+  - 创建第一条日记
 stakeholders: []
 ---
 
 <!--
 项目模版说明：
-1. status: 项目状态 (pending, active, completed, archived)。
+1. status: 项目状态 (pending, active, done, archived)。
 2. priority: 优先级 (high, medium, low)。
 3. tags: 项目标签。
 4. objective: 项目目标。

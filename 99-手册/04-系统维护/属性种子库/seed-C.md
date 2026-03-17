@@ -1,7 +1,7 @@
 ---
-status: done
-priority: low
-type: reference
+status: [done]
+priority: [low]
+type: [reference]
 ---
 
 > [!info] 这是一个系统维护文件，请勿删除。

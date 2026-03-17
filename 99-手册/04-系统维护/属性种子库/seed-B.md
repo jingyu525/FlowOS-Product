@@ -1,7 +1,7 @@
 ---
-status: active
-priority: medium
-type: idea
+status: [active]
+priority: [medium]
+type: [idea]
 ---
 
 > [!info] 这是一个系统维护文件，请勿删除。
