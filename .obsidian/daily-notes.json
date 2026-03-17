@@ -1,6 +1,6 @@
 {
   "format": "YYYY-MM-DD",
-  "folder": "05-Daily",
-  "template": "90-Templates/日记模版.md",
+  "folder": "05-日记",
+  "template": "90-模版/日记模版.md",
   "autorun": true
 }
