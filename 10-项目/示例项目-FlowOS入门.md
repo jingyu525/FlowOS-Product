@@ -1,6 +1,6 @@
 ---
 status: active
-priority: medium
+priority: high
 tags: []
 objective: "熟悉 FlowOS 系统"
 key_results:
