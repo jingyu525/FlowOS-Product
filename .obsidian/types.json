@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "status": "aliases",
+    "status": "multitext",
     "priority": "aliases",
     "type": "aliases",
     "TQ_explain": "checkbox",
@@ -27,7 +27,6 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_toolbar": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox",
-    "status": "multitext"
+    "TQ_show_urgency": "checkbox"
   }
 }
